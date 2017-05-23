@@ -1,0 +1,5 @@
+Nguyễn Ngọc Minh;Thư;41303594;09/10/1996;Nữ;Nhóm 1;
+Hồ Văn;Tài;41303595;18/06/1995;Nam;Nhóm 1;
+Phạm Thị Khánh;Ngoc;41303596;16/03/1999;Nữ;Nhóm 1;
+Nguyễn Quốc;San;41303597;22/11/1995;Nam;Nhóm 1;
+Lê Nhật;Thanh;41303598;01/03/1995;Nam;Nhóm 1;

@@ -1,0 +1,5 @@
+Nguyễn Ngọc Minh;Thư;41303594;Nhóm 1;0;
+Hồ Văn;Tài;41303595;Nhóm 1;0;
+Phạm Thị Khánh;Ngoc;41303596;Nhóm 1;0;
+Nguyễn Quốc;San;41303597;Nhóm 1;0;
+Lê Nhật;Thanh;41303598;Nhóm 1;0;

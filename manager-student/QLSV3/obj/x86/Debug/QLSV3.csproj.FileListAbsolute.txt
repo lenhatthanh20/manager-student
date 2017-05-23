@@ -1,0 +1,12 @@
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.csproj.GenerateResource.Cache
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.csprojResolveAssemblyReference.cache
+D:\QLSV\QLSV3\QLSV3\bin\Debug\QLSV3.exe
+D:\QLSV\QLSV3\QLSV3\bin\Debug\QLSV3.pdb
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.Properties.Resources.resources
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.exe
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.pdb
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.frmDangNhap.resources
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.frmGiaoDien.resources
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.frmQuanLyDiem.resources
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.frmQuanLyNhom.resources
+D:\QLSV\QLSV3\QLSV3\obj\x86\Debug\QLSV3.frmTongKet.resources
